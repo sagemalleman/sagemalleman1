@@ -25,3 +25,4 @@ test('Body should contain "ok" : true', async () => {
 
 	expect(actualResponseBody.ok).toBe(true));
 });
+

@@ -59,3 +59,4 @@ test('Response Body should contain "courierService": "Order and Go"'), async () 
 	}
 });
 expect(actualResponseBody.courierService).toBe("Order and Go");
+
